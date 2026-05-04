@@ -1,10 +1,10 @@
 <!-- readme.md of CSS3-WebDev -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="css-webdev">CSS-WebDev</h1>
+<h1 id="css-webdev">CSS WebDev</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Perhaps: An evergreen CSS course and reference to level up your web styling expertise.</p>
 
-<p><a href="https://github.com/bbauska/CSS3-WebDev/blob/main/README.md">CSS3 WebDev</a></p>
+<p><a href="https://github.com/bbauska/CSS3-WebDev/blob/main/README.md">CSS WebDev</a></p>
 
 <h3><a href="https://www.youtube.com/@OptimisticWeb">Optimistic Web</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -22,9 +22,11 @@ effectively in your projects. Use the menu pane by the "Learn CSS" logo to navig
 and z-index. And, along with these fundamentals, you'll learn about functions, color types, 
 gradients, logical properties and inheritance to make you a well-rounded front-end developer, 
 ready to take on any user interface.</p>
+
 <p>Each module is full of interactive demos and self-assessments for you to test your knowledge. 
 In addition to learning through reading and demos, there is an accompanying podcast episode for 
 each topic as another way to learn and continue expanding your knowledge.</p>
+
 <p>This course is created for beginner and advanced CSS developers alike. You can go through 
 the series from start to finish to get a general understanding of CSS from top to bottom, or 
 you can use it as a reference for specific styling subjects. For those new to web development 
